@@ -1,0 +1,5 @@
+﻿  Game.cpp
+G:\C++Projects\SFML\SFML_Game\Game.cpp(87,27): warning C4018: '<': signed/unsigned mismatch
+G:\C++Projects\SFML\SFML_Game\Game.cpp(98,20): warning C4018: '<': signed/unsigned mismatch
+G:\C++Projects\SFML\SFML_Game\Game.cpp(114,22): warning C4018: '<': signed/unsigned mismatch
+  SFML_Game.vcxproj -> G:\C++Projects\SFML\SFML_Game\Debug\SFML_Game.exe

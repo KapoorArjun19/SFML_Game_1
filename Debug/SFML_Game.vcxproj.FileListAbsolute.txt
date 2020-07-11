@@ -1,0 +1,2 @@
+G:\C++Projects\SFML\SFML_Game\Debug\SFML_Game.exe
+G:\C++Projects\SFML\SFML_Game\Debug\SFML_Game.pdb
